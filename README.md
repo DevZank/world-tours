@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/7e3cb546-d159-4fdc-9ac5-c2b5e7f15eaa
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Angular.js](https://angularjs.org) (v18)
+- [Angular.js](https://angularjs.org) 
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## 🎨 Protótipo do projeto
