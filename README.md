@@ -4,7 +4,7 @@
 
 Este é o repositório do projeto World Tours, desenvolvido para aprimorar conhecimento com o Framework Angular.
 
-https://github.com/user-attachments/assets/07122efe-d31b-4d70-a44d-f753343b1a25
+https://github.com/user-attachments/assets/7e3cb546-d159-4fdc-9ac5-c2b5e7f15eaa
 
 ## 💻 Tecnologias utilizadas no projeto
 
